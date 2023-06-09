@@ -1,0 +1,21 @@
+.table{
+    box-sizing: border-box;
+    table-layout:auto;
+    font-family: Okra, Helvetica, sans-serif;
+    width: 90%;
+    border-collapse:collapse;
+}
+
+.table td,.table th{
+    border:2px solid black;
+    height:30px;
+}
+.table th{
+    background-color: #9D1D27;
+}
+.container1{
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    flex-direction: column;
+}

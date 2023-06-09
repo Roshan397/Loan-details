@@ -1,0 +1,64 @@
+.navbar{
+    background-color: #9D1D27;
+    border: 10px;
+}
+.navbar .navbarcomp1{
+    display: flex;
+    justify-content: space-evenly;
+    color: white;
+}
+.navbarcomp1 .navlink{
+    text-decoration: none;
+    color: white;
+}
+.one{
+    font-size: 20px;
+    color: var(--pri-col);
+}
+.one:hover{
+    color: black;
+    transform: scale(1.04);
+}
+.two{
+    font-size: 20px;
+    color: var(--pri-col);
+}
+.two:hover{
+    color: black;
+    transform: scale(1.04);
+}
+.three{
+    font-size: 20px;
+    color: var(--pri-col);
+}
+.three:hover{
+    color: black;
+    transform: scale(1.04);
+}
+.four{
+    font-size: 20px;
+    color: var(--pri-col);
+}
+.four:hover{
+    color: black;
+    transform: scale(1.04);
+}
+.searchbar{
+    margin-top: 50px;
+    text-align: center;
+}
+.Box{
+    margin-top: 100px;
+    text-align: center;
+}
+.header{
+    font-family: Okra, Helvetica, sans-serif;
+    text-align: center;
+}
+.loandet{
+    background-color: #9D1D27;
+    text-align:center;
+    height: 700px;
+    
+}
+
